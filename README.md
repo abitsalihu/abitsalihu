@@ -8,7 +8,7 @@
 
 
 
-<img align="right" src="https://i.ibb.co/k4p23bX/resume2.png" alt="" width="auto" height="300">
+
 
 
 - 🔭 I’m currently working on **Front-End projects.**
