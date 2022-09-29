@@ -1,50 +1,65 @@
-
-
-
 <img align="center" src="https://i.ibb.co/K7nL1CR/Frame-2.png" alt="" width="100%" height="100%">
 
-
-<br>
-
+<hr>
 
 
+<table align="center">
+<tr>
+  <td colspan="4">- 🔭 I’m currently working on Front-End projects.</td>
+  <th colspan="3" rowspan="4"> <img align="center" src="https://i.ibb.co/k4p23bX/resume2.png" alt="" width="auto" height="200"></th>
+ </tr>
+ <tr>
+  <td colspan="4">- 🌱 I’m currently learning ReactJS.</td>
+   </tr>
+ <tr>
+  <td colspan="4">- 💬 Ask me about HTML/CSS/SASS/JS</td>
+   </tr>
+ <tr>
+  <td colspan="4">- 📫 You can reach me at abiti.salihu@gmail.com</td>
+   </tr>
+ <tr>
+  <th colspan="100%"> <br> # Technologies I use 👨‍💻: </th>
+ </tr>
+ <tr>
+  <th> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" </th>
+  <th> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  </th>
+  <th> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" </th>
+  <th> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" </th>
+  <th> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" </th>
+  <th> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" </th>
+  <th> <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" </th>
+ </tr>
+ <tr>
+  <th colspan="100%"> <br> # Connect with me 👋: </th>
+  
+ </tr>
 
-<img align="right" src="https://i.ibb.co/k4p23bX/resume2.png" alt="" width="auto" height="300">
-
-- 🔭 I’m currently working on **Front-End projects.**
-
-- 🌱 I’m currently learning **ReactJS.**
-
-- 💬 Ask me about **HTML/CSS/SASS/JS**
-
-- 📫 You can reach me at **abiti.salihu@gmail.com**
-
-<br>
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abitsalihu&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abitsalihu&theme=blueberry&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abitsalihu&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-# Technologies I use 👨‍💻:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-
-
-
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abitsalihu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abitsalihu) 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abitsalihu)
-
----
-[![](https://visitcount.itsvg.in/api?id=abitsalihu&icon=5&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abitsalihu) 
-
+ <tr>
+  <th colspan="2"> <a href="https://twitter.com/abitsalihu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abitsalihu" height="30" width="40" /></a> </th>
+  <th colspan="3"> <a href="https://linkedin.com/in/abit-salihu-115607230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abit-salihu-115607230/" height="30" width="40" /></a></th>
+  <th colspan="2"><a href="https://instagram.com/abitsalihu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abitsalihu" height="30" width="40" /></a> </th>
+ </tr>
+ <tr>
+  <th colspan="100%"> <br> # My latest Project 🖥:
+  </th>
+ </tr>
+  <tr>
+  <th colspan="100%"><a href="https://abitsalihu.github.io/quizafriend/">Quiz your self/friend</a> </th>
+ </tr>
+ <tr>
+  <th colspan="100%"> <img src="https://media3.giphy.com/media/LKkFsVV6rUVDUn9M34/giphy.gif?cid=790b7611a3a3e7838c5ad5a810505c2957ffbd2be380e55f&rid=giphy.gif&ct=g">
+</th>
+ </tr>
+  <tr>
+  <th colspan="100%"> <br> # Support Me 💙: <br>
+  </th>
+ </tr>
+ <tr>
+  <th colspan="100%"> <p><a href="https://www.buymeacoffee.com/abitsalihu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abitsalihu" /></a></p></th>
+ </tr>
+ 
+ <tr>
+  <th colspan="100%"><p align="center"> <img src="https://komarev.com/ghpvc/?username=abitsalihu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abitsalihu" /> </p> </th>
+ </tr>
+ 
+</table>
