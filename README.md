@@ -47,7 +47,7 @@
   <th colspan="100%"><a href="https://abitsalihu.github.io/quizafriend/">Quiz your self/friend</a> </th>
  </tr>
  <tr>
-  <th colspan="100%"> <img src="https://media3.giphy.com/media/LKkFsVV6rUVDUn9M34/giphy.gif?cid=790b7611a3a3e7838c5ad5a810505c2957ffbd2be380e55f&rid=giphy.gif&ct=g">
+  <th colspan="100%"> <img src="https://media3.giphy.com/media/V94JYRAfqtTKzFmI8t/giphy.gif?cid=790b7611348b4a4e61714a5a7cfbe15f5b53376bb68c5abd&rid=giphy.gif&ct=g">
 </th>
  </tr>
   <tr>
