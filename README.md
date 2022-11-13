@@ -50,6 +50,15 @@
   <th colspan="100%"> <img src="https://media3.giphy.com/media/V94JYRAfqtTKzFmI8t/giphy.gif?cid=790b7611348b4a4e61714a5a7cfbe15f5b53376bb68c5abd&rid=giphy.gif&ct=g">
 </th>
  </tr>
+   <tr>
+  <th colspan="100%"><a href="https://abitsalihu.github.io/portfolio/">My Portfolio</a> </th>
+ </tr>
+ <tr>
+  <th colspan="100%"> <img src="https://media1.giphy.com/media/CGqWVgpi3XlTXS7IgZ/giphy.gif?cid=790b7611c4e826f39b5496eac00b1d6f75e6fcc1d1209681&rid=giphy.gif&ct=g">
+</th>
+ </tr>
+  
+  
   <tr>
   <th colspan="100%"> <br> # Support Me 💙: <br>
   </th>
