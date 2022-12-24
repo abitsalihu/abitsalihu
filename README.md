@@ -51,6 +51,13 @@
 </th>
  </tr>
    <tr>
+  <th colspan="100%"><a href="https://abitsalihu.github.io/weatherapp/">Weather App</a> </th>
+ </tr>
+ <tr>
+  <th colspan="100%"> <img src="https://media1.giphy.com/media/57MkbqT6LpChS48XK1/giphy.gif?cid=790b76114b5d2037f4e7387ca9a2a7a16695dbff7d51d4d4&rid=giphy.gif&ct=g">
+</th>
+ </tr>
+   <tr>
   <th colspan="100%"><a href="https://abitsalihu.github.io/portfolio/">My Portfolio</a> </th>
  </tr>
  <tr>
