@@ -47,21 +47,22 @@
   <th colspan="100%"><a href="http://nicolaskraj.com/">Portfolio Showcase Website</a> </th>
  </tr>
  <tr>
-  <th colspan="100%"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR5cnE5ejg1ZHZjbXdjdWVwMHZ1NXA3aWZxZHBhb2g3enppbWNmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L53ueEHKZ2ngoke3rE/giphy.gif">
+  <th colspan="100%"> <img src="https://i.giphy.com/L53ueEHKZ2ngoke3rE.webp">
+  
 </th>
  </tr>
    <tr>
   <th colspan="100%"><a href="https://www.newbornbrew.com/">Newborn Brew Cafe</a> </th>
  </tr>
  <tr>
-  <th colspan="100%"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lkOG0wbHN0bjZ3Ym1pbGtwdW4wajUweHd6M2ZkbngzajdzeHppNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FvUEXgtuKyhdbiGHWf/giphy.gif">
+  <th colspan="100%"> <img src="https://i.giphy.com/FvUEXgtuKyhdbiGHWf.webp">
 </th>
  </tr>
    <tr>
-  <th colspan="100%"><a href="https://abitsalihu.github.io/portfolio/">My Portfolio</a> </th>
+  <th colspan="100%"><a href="#">Portfolio Demo</a> </th>
  </tr>
  <tr>
-  <th colspan="100%"> <img src="https://media1.giphy.com/media/CGqWVgpi3XlTXS7IgZ/giphy.gif?cid=790b7611c4e826f39b5496eac00b1d6f75e6fcc1d1209681&rid=giphy.gif&ct=g">
+  <th colspan="100%"> <img src="https://i.giphy.com/SjP50GhDqnt2m0A3ju.webp">
 </th>
  </tr>
   
