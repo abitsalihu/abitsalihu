@@ -44,17 +44,17 @@
   </th>
  </tr>
   <tr>
-  <th colspan="100%"><a href="https://abitsalihu.github.io/quizafriend/">Quiz your self/friend</a> </th>
+  <th colspan="100%"><a href="http://nicolaskraj.com/">Portfolio Showcase Website</a> </th>
  </tr>
  <tr>
-  <th colspan="100%"> <img src="https://media3.giphy.com/media/V94JYRAfqtTKzFmI8t/giphy.gif?cid=790b7611348b4a4e61714a5a7cfbe15f5b53376bb68c5abd&rid=giphy.gif&ct=g">
+  <th colspan="100%"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR5cnE5ejg1ZHZjbXdjdWVwMHZ1NXA3aWZxZHBhb2g3enppbWNmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L53ueEHKZ2ngoke3rE/giphy.gif">
 </th>
  </tr>
    <tr>
-  <th colspan="100%"><a href="https://abitsalihu.github.io/weatherapp/">Weather App</a> </th>
+  <th colspan="100%"><a href="https://www.newbornbrew.com/">Newborn Brew Cafe</a> </th>
  </tr>
  <tr>
-  <th colspan="100%"> <img src="https://media1.giphy.com/media/57MkbqT6LpChS48XK1/giphy.gif?cid=790b76114b5d2037f4e7387ca9a2a7a16695dbff7d51d4d4&rid=giphy.gif&ct=g">
+  <th colspan="100%"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lkOG0wbHN0bjZ3Ym1pbGtwdW4wajUweHd6M2ZkbngzajdzeHppNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FvUEXgtuKyhdbiGHWf/giphy.gif">
 </th>
  </tr>
    <tr>
